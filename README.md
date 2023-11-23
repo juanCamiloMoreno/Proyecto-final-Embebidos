@@ -50,7 +50,7 @@ ltr = adafruit_ltr390.LTR390(i2c)
 1. Ejecuta el script desde la línea de comandos:
 
 ```bash
-python nombre_del_script.py
+python Proyecto_Final.py
 ```
 
 2. El script leerá continuamente los datos de los sensores, intentará enviarlos al servidor MQTT y guardará localmente si no hay conexión a Internet.
